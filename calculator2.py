@@ -1,5 +1,5 @@
 
-#This is the most basic claculator we are going to create 
+#This is the most basic calculator we are going to create 
 print("----C A L C U L A T O R----")
 # This function adds two numbers
 def add(a, b):
