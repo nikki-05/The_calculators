@@ -1,5 +1,5 @@
 
-#This is the most basic claculator we are going to create 
+#This is the most basic calculator we are going to create 
 print("----C A L C U L A T O R----")
 # This function adds two numbers
 def add(a, b):
@@ -53,6 +53,7 @@ while True:
         print("want to continue ?")
         next_cal = input("Let's do next calculation? (yes/no): ")
         if next_cal== "no":
+          print("that's okey!")
           break
     else:
         print("Invalid Input try again")
